@@ -1,0 +1,10 @@
+C:\Users\tursu\OneDrive\myProjects\Adm\Admin\Admin\bin\Debug\Admin.exe.config
+C:\Users\tursu\OneDrive\myProjects\Adm\Admin\Admin\bin\Debug\Admin.exe
+C:\Users\tursu\OneDrive\myProjects\Adm\Admin\Admin\bin\Debug\Admin.pdb
+C:\Users\tursu\OneDrive\myProjects\Adm\Admin\Admin\obj\Debug\Admin.csprojAssemblyReference.cache
+C:\Users\tursu\OneDrive\myProjects\Adm\Admin\Admin\obj\Debug\Admin.Form1.resources
+C:\Users\tursu\OneDrive\myProjects\Adm\Admin\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\tursu\OneDrive\myProjects\Adm\Admin\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Users\tursu\OneDrive\myProjects\Adm\Admin\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\tursu\OneDrive\myProjects\Adm\Admin\Admin\obj\Debug\Admin.exe
+C:\Users\tursu\OneDrive\myProjects\Adm\Admin\Admin\obj\Debug\Admin.pdb
